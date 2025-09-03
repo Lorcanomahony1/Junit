@@ -1,17 +1,28 @@
-This is a simple Java project that implements Junit automated testing software in order to test use cases for a banking app
-to ensure that it works correctly and possible bugs are identified
-Junit is java software specifically designed to test for bugs
+# Banking App JUnit Testing Project
 
-Guide
+This is a simple Java project that implements JUnit automated testing software to test use cases for a banking app, ensuring that it works correctly and possible bugs are identified. JUnit is Java software specifically designed to test for bugs.
 
-First, install the following
-1.  java eclipse
-2.  Junit 5
-3.  Java JDK
+## Setup Guide
 
-How to use
-1. Open the project in java eclipseIDE 
-2. Click on the Junit tab
-3. Run project
-4. You will be able to see the results of each test in the Junit tab
-<img width="278" height="671" alt="luihlu" src="https://github.com/user-attachments/assets/e34fa22e-40ef-48d5-b7f7-07bf6be18f33" />
+First, install the following dependencies:
+1. **Java Eclipse**: The IDE for running the project.
+2. **JUnit 5**: The testing framework used for automated testing.
+3. **Java JDK**: The Java Development Kit required to compile and run the project.
+
+## How to Use
+
+1. **Open the Project**  
+   Load the project in the Eclipse IDE.
+
+2. **Navigate to the JUnit Tab**  
+   Locate the JUnit tab in the Eclipse interface.
+
+3. **Run the Project**  
+   Execute the project to initiate the JUnit tests.
+
+4. **View Results**  
+   The results of each test will be displayed in the JUnit tab.
+
+## Screenshot
+
+![JUnit Test Results](https://github.com/user-attachments/assets/e34fa22e-40ef-48d5-b7f7-07bf6be18f33)
