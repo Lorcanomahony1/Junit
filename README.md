@@ -14,3 +14,4 @@ How to use
 2. Click on the Junit tab
 3. Run project
 4. You will be able to see the results of each test in the Junit tab
+<img width="278" height="671" alt="luihlu" src="https://github.com/user-attachments/assets/e34fa22e-40ef-48d5-b7f7-07bf6be18f33" />
